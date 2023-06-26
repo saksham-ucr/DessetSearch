@@ -11,7 +11,9 @@ import SwiftUI
 struct fetchMealSearchApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationStack{
+                HomeView()
+            }
         }
     }
 }

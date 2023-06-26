@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A63CB862-61A6-4EBE-BEEE-D666138F151D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0486EE94-D549-44DE-8E15-C67DBEC558DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fetchMealSearch/Utilites/DataService/DataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA31C4F6-FC86-4F69-AC54-D088CEEF7F48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fetchMealSearchTests/Utilities/DataService/DataServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "test_getData_CorrectURL_GetDataSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA31C4F6-FC86-4F69-AC54-D088CEEF7F48 - d660ab3306401734"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for fetchMealSearchTests.DataServiceTests.test_DataService_CorrectURL_GetDataSuccess() async -&gt; ()"
+                  moduleName = "fetchMealSearchTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user242726/Desktop/fetchMealSearch/fetchMealSearchTests/Utilities/DataService/DataServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "CA31C4F6-FC86-4F69-AC54-D088CEEF7F48 - f0a4a9bc083d3175"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for fetchMealSearchTests.DataServiceTests.test_DataService_CorrectURL_GetDataSuccess() async -&gt; ()"
+                  moduleName = "fetchMealSearchTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user242726/Desktop/fetchMealSearch/fetchMealSearchTests/Utilities/DataService/DataServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "CA31C4F6-FC86-4F69-AC54-D088CEEF7F48 - 18f8d035227aaab2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for fetchMealSearchTests.DataServiceTests.test_DataService_CorrectURL_GetDataSuccess() async -&gt; ()"
+                  moduleName = "fetchMealSearchTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user242726/Desktop/fetchMealSearch/fetchMealSearchTests/Utilities/DataService/DataServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BE8ED7E-78C9-4CE5-AE06-7298E4C8EBF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fetchMealSearchTests/Utilities/DataService/DataServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "test_getData_CorrectURL_GetDataSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0BE8ED7E-78C9-4CE5-AE06-7298E4C8EBF5 - 72b70f21ff30f06b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fetchMealSearchTests.DataServiceTests.test_DataService_BadURL_GetDataFailure() async -&gt; ()"
+                  moduleName = "fetchMealSearchTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user242726/Desktop/fetchMealSearch/fetchMealSearchTests/Utilities/DataService/DataServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "0BE8ED7E-78C9-4CE5-AE06-7298E4C8EBF5 - 2490530daf1fb464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for fetchMealSearchTests.DataServiceTests.test_DataService_BadURL_GetDataFailure() async -&gt; ()"
+                  moduleName = "fetchMealSearchTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user242726/Desktop/fetchMealSearch/fetchMealSearchTests/Utilities/DataService/DataServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "0BE8ED7E-78C9-4CE5-AE06-7298E4C8EBF5 - 18f8d035227aaad3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for fetchMealSearchTests.DataServiceTests.test_DataService_CorrectURL_GetDataSuccess() async -&gt; ()"
+                  moduleName = "fetchMealSearchTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user242726/Desktop/fetchMealSearch/fetchMealSearchTests/Utilities/DataService/DataServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83E6C406-D306-4EBD-9F60-C97265F83E74"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fetchMealSearchTests/Utilities/DataService/DataServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "test_getData_CorrectURL_GetDataSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83E6C406-D306-4EBD-9F60-C97265F83E74 - 2490530daf1fb4c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for fetchMealSearchTests.DataServiceTests.test_DataService_BadURL_GetDataFailure() async -&gt; ()"
+                  moduleName = "fetchMealSearchTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user242726/Desktop/fetchMealSearch/fetchMealSearchTests/Utilities/DataService/DataServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "83E6C406-D306-4EBD-9F60-C97265F83E74 - d660ab33064017d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for fetchMealSearchTests.DataServiceTests.test_DataService_CorrectURL_GetDataSuccess() async -&gt; ()"
+                  moduleName = "fetchMealSearchTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user242726/Desktop/fetchMealSearch/fetchMealSearchTests/Utilities/DataService/DataServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

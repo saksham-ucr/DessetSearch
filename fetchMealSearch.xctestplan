@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "198926CC-A884-4EC9-B818-B44A6A7EAAA9",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:fetchMealSearch.xcodeproj",
+      "identifier" : "AB62A3242A43B4910073AD2B",
+      "name" : "fetchMealSearch"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:fetchMealSearch.xcodeproj",
+        "identifier" : "AB62A3342A43B4920073AD2B",
+        "name" : "fetchMealSearchTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:fetchMealSearch.xcodeproj",
+        "identifier" : "AB62A33E2A43B4920073AD2B",
+        "name" : "fetchMealSearchUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
