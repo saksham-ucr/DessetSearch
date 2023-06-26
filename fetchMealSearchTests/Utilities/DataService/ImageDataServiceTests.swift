@@ -8,7 +8,7 @@
 import XCTest
 @testable import fetchMealSearch
 
-class ImageDataServiceTests: XCTestCase {
+final class ImageDataServiceTests: XCTestCase {
     
     var imageDataService: ImageDataService!
     var mockNetworkLayer: MockNetworkLayer!

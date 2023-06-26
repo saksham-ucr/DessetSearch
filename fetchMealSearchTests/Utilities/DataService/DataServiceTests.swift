@@ -8,7 +8,7 @@
 import XCTest
 @testable import fetchMealSearch
 
-class DataServiceTests: XCTestCase {
+final class DataServiceTests: XCTestCase {
     
     var dataService: DataService<APIResponse>!
     var mockNetworkLayer: MockNetworkLayer!
